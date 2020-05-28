@@ -4,8 +4,8 @@ Installation
 Using a terminal, you can do the following sequence of commands:
 
 ```
-$ git clone https://github.com/laerne/desaturate_all.git
-$ mv desaturate_all "~/.local/share/gnome-shell/extensions/desaturate_all@nicolas.brack.mail.be"
+$ git clone https://github.com/internetcoffeephone/desaturate_all.git
+$ mv desaturate_all ~/.local/share/gnome-shell/extensions/desaturate_all@nicolas.brack.mail.be
 ```
 
 Then press `Alt`+`F2`, type `r` in the dialog window, then press `Enter`.
